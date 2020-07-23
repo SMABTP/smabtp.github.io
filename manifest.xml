@@ -6,8 +6,8 @@
   <DefaultLocale>fr-FR</DefaultLocale>
   <DisplayName DefaultValue="eSMA" />
   <Description DefaultValue="INtégration eSMA." />
-  <IconUrl DefaultValue="https://sb.gautiersa.fr/apps/o365-esma//assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://sb.gautiersa.fr/apps/o365-esma//assets/icon-80.png" />
+  <IconUrl DefaultValue="https://sb.gautiersa.fr/apps/o365-esma/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://sb.gautiersa.fr/apps/o365-esma/assets/icon-80.png" />
   <SupportUrl DefaultValue="https://www.groupe-sma.fr" />
   <AppDomains>
     <AppDomain>groupe-sma.fr</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://sb.gautiersa.fr/apps/o365-esma//#/taskpane" />
+        <SourceLocation DefaultValue="https://sb.gautiersa.fr/apps/o365-esma/#/taskpane" />
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -85,13 +85,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma//assets/icon-16.png" />
-        <bt:Image id="Icon.32x32" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma//assets/icon-32.png" />
-        <bt:Image id="Icon.80x80" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma//assets/icon-80.png" />
+        <bt:Image id="Icon.16x16" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma/assets/icon-16.png" />
+        <bt:Image id="Icon.32x32" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma/assets/icon-32.png" />
+        <bt:Image id="Icon.80x80" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma/assets/icon-80.png" />
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma//#/command" />
-        <bt:Url id="Taskpane.Url" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma//#/taskpane" />
+        <bt:Url id="Commands.Url" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma/#/command" />
+        <bt:Url id="Taskpane.Url" DefaultValue="https://sb.gautiersa.fr/apps/o365-esma/#/taskpane" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="eSMA Add-in" />
