@@ -925,6 +925,29 @@ section.lazy-placeholder:after {
   font-size: 96px;
   color: #149dcc;
 }
+.cid-sdYwRNValZ {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-sdYwRNValZ .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sdYwRNValZ .section-text {
+  padding: 2rem 0;
+}
+.cid-sdYwRNValZ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sdYwRNValZ .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-sdYq7ANZhn {
   padding-top: 135px;
   padding-bottom: 135px;
